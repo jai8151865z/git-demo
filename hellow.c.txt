@@ -1,4 +1,4 @@
 void nain()
 {
-  printf("happy");
+  printf("ha ha");
 }
