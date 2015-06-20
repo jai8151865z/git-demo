@@ -1,4 +1,4 @@
 void nain()
 {
-  printf("ha ha");
+  printf("fdfdfdfdf ha");
 }
